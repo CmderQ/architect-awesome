@@ -710,7 +710,7 @@ TODO
 
 * [《终结python协程----从yield到actor模型的实现》](https://www.thinksaas.cn/group/topic/839375/)
 	* 线程的调度是由操作系统负责，协程调度是程序自行负责
-	* 与线程相比，协程减少了无畏的操作系统切换.
+	* 与线程相比，协程减少了无谓的操作系统切换.
 	* 实际上当遇到IO操作时做切换才更有意义，（因为IO操作不用占用CPU），如果没遇到IO操作，按照时间片切换.
 	
 ## Linux
@@ -2261,6 +2261,8 @@ TODO
 
 * [InfoQ《架构师》月刊](http://www.infoq.com/cn/architect/)
 
+* [《架构师之路》](https://www.w3cschool.cn/architectroad/)
+
 ### 纸质书
 
 #### 开发方面
@@ -2375,3 +2377,6 @@ TODO
 * [亚马逊云(AWS)](https://amazonaws-china.com/cn/)
 * [谷歌云](https://cloud.google.com/?hl=zh-cn)
 * [微软云](https://azure.microsoft.com/zh-cn/)
+
+### VPS
+* [Linode](http://linode.com)
